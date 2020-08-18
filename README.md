@@ -7,8 +7,8 @@
 </ul>
   
 <h3>PySpark</h3>
+<p>PySpark as Python library enables using Spark with Python instead of Scala.</p>
 <ul>
-  <li>PySpark as Python library enables using Spark with Python instead of Scala.</li>
   <li>With Python, the readability of code, maintenance, and familiarity is far better in comparsion to Scala</li>
   <li>Pyspark operations work like Python genearators, it's being delayed until the result is called.</li>
   <li>This way, avoiding pulling the full data frame into memory and enabling an efficient processing across a cluster of machines.</li>
