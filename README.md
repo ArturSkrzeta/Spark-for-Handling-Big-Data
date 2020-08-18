@@ -3,7 +3,7 @@
 <p>I found the information that Spark can perform up to 100x faster than Hadoop MapReduce. </p>
 <ul>
   <li>Apache Spark is written in Scala programming language.</li>
-  <li>Spark can be run both on local machine and within clusters environment in either a local infrastructur or it the cloud (f.e. Amazon EC2)</li>
+  <li>Spark can be run both on local machine and within clusters environment in either a local infrastructure or it the cloud (f.e. Amazon EC2)</li>
 </ul>
   
 <h3>PySpark</h3>
