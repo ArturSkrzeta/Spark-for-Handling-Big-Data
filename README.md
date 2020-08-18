@@ -18,13 +18,16 @@
 </ul>
 
 <h3>Installation</h3>
-1.Install Java version 8
-2.Java jdk Folder will be created inside C:\Program Files\Java
-3.Add the Environment variable (JAVA_HOME) as shown in the video: JAVA_HOME = C:\Program Files\Java\jdk1.8.0_201
-4.Add the Path variable(till bin folder in System Variable Section if in case User variable section is not recognizing it): PATH = C:\Program Files\Java\jdk1.8.0_201\bin
-5.Create a subfolder named "spark" in the C: drive For e.g. C:\spark 
-6.Keep your Spark installation folder inside C:\spark For e.g. C:\spark\spark-2.3.1-bin-hadoop2.7
-7.Setup Environment variables for (SPARK_HOME): SPARK_HOME = C:\spark\spark-2.3.1-bin-hadoop2.7
-8.Setup Environment variables for (HADOOP_HOME): HADOOP_HOME = C:\spark\spark-2.3.1-bin-hadoop2.7
-9.Add the Path variable(till bin folder in System Variable Section if in case User variable section is not recognizing it): PATH = C:\spark\spark-2.3.1-bin-hadoop2.7\bin
-10.Copy and Paste the winutils file in C:\spark\spark-2.3.1-bin-hadoop2.7\bin
+<ol>
+  <li>Install Java version 8</li>
+  <li>Java jdk Folder will be created inside C:\Program Files\Java</li>
+  <li>Add the Environment variable (JAVA_HOME) as shown in the video: JAVA_HOME = C:\Program Files\Java\jdk1.8.0_201</li>
+  <li>Add the Path variable(till bin folder in System Variable Section if in case User variable section is not recognizing it): PATH = C:\Program Files\Java\jdk1.8.0_201\bin</li>
+  <li>Create a subfolder named "spark" in the C: drive For e.g. C:\spark </li>
+  <li>Keep your Spark installation folder inside C:\spark For e.g. C:\spark\spark-2.3.1-bin-hadoop2.7</li>
+  <li>Setup Environment variables for (SPARK_HOME): SPARK_HOME = C:\spark\spark-2.3.1-bin-hadoop2.7</li>
+  <li>Setup Environment variables for (HADOOP_HOME): HADOOP_HOME = C:\spark\spark-2.3.1-bin-hadoop2.7</li>
+  <li>Add the Path variable(till bin folder in System Variable Section if in case User variable section is not recognizing it): PATH = C:\spark\spark-2.3.1-bin-hadoop2.7\bin</li>
+  <li>Copy and Paste the winutils file in C:\spark\spark-2.3.1-bin-hadoop2.7\bin</li>
+<ol>
+
