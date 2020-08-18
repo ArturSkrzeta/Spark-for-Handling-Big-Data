@@ -4,9 +4,9 @@
 <ul>
   <li>Apache Spark is written in Scala programming language.</li>
   <li>Spark can be run both on local machine and within clusters environment in either a local infrastructur or it the cloud (f.e. Amazon EC2)</li>
-<ul>
+</ul>
+  
 <h3>PySpark</h3>
-
 <ul>
   <li>PySpark as Python library enables using Spark with Python instead of Scala.</li>
   <li>With Python, the readability of code, maintenance, and familiarity is far better in comparsion to Scala</li>
