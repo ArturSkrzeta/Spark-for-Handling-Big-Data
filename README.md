@@ -11,9 +11,9 @@
 <p>PySpark as Python library enables using Spark with Python instead of Scala.</p>
 <img src="images/pyspark.jpg">
 <ul>
-  <li>With Python, the readability of code, maintenance, and familiarity is far better in comparsion to Scala</li>
+  <li>With Python, the readability of code, maintenance, and refactoring is far easier than in Scala.</li>
   <li>Pyspark operations work like Python genearators, it's being delayed until the result is called.</li>
-  <li>This way, avoiding pulling the full data frame into memory and enabling an efficient processing across a cluster of machines.</li>
+  <li>This way, avoiding pulling the full data frame into memory and enabling an efficient processing across a cluster of machines (I use single local machine).</li>
   <li>This in opposition to Pandas dataframes, where everything is pulled into memory at once.</li>
   <li>The main data type in PySpark is the Spark dataframe - equivalent to dataframes in R and Pandas.</li>
   <li>Wanting to apply distributed computation using PySpark, you need to be performing operations on Spark dataframes.</li>
@@ -32,4 +32,7 @@
   <li>Add the Path variable(till bin folder in System Variable Section if in case User variable section is not recognizing it): PATH = C:\spark\spark-2.3.1-bin-hadoop2.7\bin</li>
   <li>Copy and Paste the winutils file in C:\spark\spark-2.3.1-bin-hadoop2.7\bin</li>
 <ol>
+  
+<h3>Notes</h3>
+<p>I take advantage of Jupyter Notebook and put all the notes in there that help me to understand PySpark syntax</p>
 
