@@ -12,6 +12,7 @@
 <img src="images/pyspark.jpg">
 <ul>
   <li>With Python, the readability of code, maintenance, and refactoring is far easier than in Scala.</li>
+  <li>I apply functional programming for buildnig data model - f.e. passing functions both lambda and defined ones as parameters of another function.</li>
   <li>Pyspark operations work like Python genearators, it's being delayed until the result is called.</li>
   <li>This way, avoiding pulling the full data frame into memory and enabling an efficient processing across a cluster of machines (I use single local machine).</li>
   <li>This is in opposition to Pandas dataframes, where everything is pulled into memory at once.</li>
