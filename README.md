@@ -41,7 +41,9 @@
   <li>Exporting data set.</li>
   <li>Building so-called RDD Data Model that data will be pushed through.</li>
   <li>Converting RDD into Spark Data Frame.</li>
-  <li>Converting RDD into </li>
+  <li>Converting RDD into Python list of tuples.</li>
+  <li>Converting Spark Data Frame into Pandas Data Frame - converting RDD into Pandas DF not possible.</li>
+  <li>Exporting Pandas DF into csv flat-file.</li>
 <ol>
   
 <h3>Notes</h3>
