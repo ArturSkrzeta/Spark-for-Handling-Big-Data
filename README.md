@@ -33,6 +33,16 @@
   <li>Add the Path variable(till bin folder in System Variable Section if in case User variable section is not recognizing it): PATH = C:\spark\spark-2.3.1-bin-hadoop2.7\bin</li>
   <li>Copy and Paste the winutils file in C:\spark\spark-2.3.1-bin-hadoop2.7\bin</li>
 </ol>
+
+<h3>Project Demo</h3>
+<ol>
+  <li>Importing all necessary libraries and sprak features initialization.</li>
+  <li>Setting up variable and functions for further passing as parameters.</li>
+  <li>Exporting data set.</li>
+  <li>Building so-called RDD Data Model that data will be pushed through.</li>
+  <li>Converting RDD into Spark Data Frame.</li>
+  <li>Converting RDD into </li>
+<ol>
   
 <h3>Notes</h3>
 <p>I take advantage of Jupyter Notebook and put all the notes in there that help me to understand PySpark syntax</p>
