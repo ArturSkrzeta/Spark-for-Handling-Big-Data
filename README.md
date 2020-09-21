@@ -45,7 +45,7 @@
   <li>Converting RDD into Python list of tuples.</li>
   <li>Converting Spark Data Frame into Pandas Data Frame - converting RDD into Pandas DF not possible.</li>
   <li>Exporting Pandas DF into csv flat-file.</li>
-<ol>
+</ol>
   
 <h3>Notes</h3>
 <p>I take advantage of Jupyter Notebook and put all the notes in there that help me to understand PySpark syntax</p>
