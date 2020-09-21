@@ -6,6 +6,7 @@
   <li>Apache Spark is written in Scala programming language.</li>
   <li>Spark is a memory based solution keeping as much as it can in a Cache RAM - that contriutes to the speed of it.</li>
   <li>Spark can be run both on local machine and within clusters environment in either a local infrastructure or it the cloud (f.e. Amazon EC2)</li>
+  <li>The core idea behind Spark is MapReduce which is mapping your data set into a collection of (key, value) pairs, and then reducing over all pairs with the same key.</li>
 </ul>
   
 <h3>PySpark</h3>
