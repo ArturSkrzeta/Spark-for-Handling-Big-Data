@@ -91,8 +91,14 @@
 									<ol>
 									  <li>Importing all necessary libraries and sprak features initialization.</li>
 									  <li>Setting up variable and functions for further passing as parameters.</li>
-									  <li>Exporting data set.</li>
-									  <li>Building so-called RDD Data Model that data will be pushed through.</li>
+									  <li>Importing data set.</li>
+									  <li>Building so-called RDD Data Model that will be accepting the data through.
+											<br>
+											- filtering data with lambda function that checks condition on every RDD line,<br>
+											- mapping each RDD line into key-value pairs,<br>
+											- reducing each key-value paris by key aggregating their values,<br>
+											- sorting pairr by key.
+										</li>
 									  <li>Converting RDD into Spark Data Frame.</li>
 									  <li>Converting RDD into Python list of tuples.</li>
 									  <li>Converting Spark Data Frame into Pandas Data Frame - converting RDD into Pandas DF not possible.</li>
